@@ -1,4 +1,4 @@
 User-agent: * 
 Allow : /
 
-Sitemap: https://biropemotda.kepriprov.go.id/-/sitemap.xml
+Sitemap: https://biropemotda.kepriprov.go.id/products/sitemap.xml
